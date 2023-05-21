@@ -8,9 +8,10 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": [
+/*        "CHAT_BACKGROUND": [
             "#1f1f1f"
         ],
+        */
         "BACKGROUND_PRIMARY": [
             "#1f1f1f"
         ],

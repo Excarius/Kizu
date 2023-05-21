@@ -109,7 +109,7 @@
         "GREEN_360": "#27D026"
     },
     "background": {
-    "blur": 2,
+    "blur": 0,
     "url": "https://bbaka.moe/QWSlEfvZ3M4H.jpg",
     "alpha": 0.48
   },

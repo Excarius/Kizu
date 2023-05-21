@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "CHAT_BACKGROUND": [
-            "#1f1f1f"
+            "#303030"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1f1f1f"
+            "#303030"
         ],
         "BACKGROUND_SECONDARY": [
             "#161616"
@@ -21,13 +21,13 @@
             "#262626"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0f0f0f"
+            "#252525"
         ],
         "BACKGROUND_FLOATING": [
-            "#0f0f0f"
+            "#252525"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#1f1f1f"
+            "#303030"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#161616"
@@ -39,10 +39,10 @@
             "#262626"
         ],
         "BACKGROUND_MENTIONED": [
-            "#f9267210"
+            "#231F1F"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
-            "#66d9ef10"
+            "#231F1F"
         ],
         "HEADER_PRIMARY": [
             "#f2f2f2"
@@ -76,34 +76,34 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#1f1f1f",
-        "PRIMARY_500": "#363636",
-        "BRAND_100": "#fff6f9",
-        "BRAND_130": "#fee5ee",
-        "BRAND_160": "#fedce8",
-        "BRAND_200": "#fed4e3",
-        "BRAND_230": "#fdc2d8",
-        "BRAND_260": "#fdb1cc",
-        "BRAND_300": "#fca0c1",
-        "BRAND_330": "#fc8eb6",
-        "BRAND_345": "#fb7daa",
-        "BRAND_360": "#fb6b9f",
-        "BRAND_400": "#fa5a94",
-        "BRAND_430": "#fa4989",
-        "BRAND_460": "#f9377d",
-        "BRAND_500": "#f92672",
-        "BRAND_530": "#e52369",
-        "BRAND_560": "#d12060",
-        "BRAND_600": "#1ca9bd",
-        "BRAND_630": "#1993a6",
-        "BRAND_660": "#168291",
-        "BRAND_700": "#137280",
-        "BRAND_730": "#10606b",
-        "BRAND_760": "#0d5059",
-        "BRAND_800": "#0a3e45",
-        "BRAND_830": "#082b30",
-        "BRAND_860": "#05191c",
-        "BRAND_900": "#02090a",
+        "PRIMARY_600": "#3B3B3B",
+        "PRIMARY_500": "#444444",
+        "BRAND_100": "#F6FFFF",
+        "BRAND_130": "#E5FDFE",
+        "BRAND_160": "#DCFDFE",
+        "BRAND_200": "#D4FDFE",
+        "BRAND_230": "#C2F9FD",
+        "BRAND_260": "#B1FBFD",
+        "BRAND_300": "#A0FAFC",
+        "BRAND_330": "#8EF2FC",
+        "BRAND_345": "#7DF8FB",
+        "BRAND_360": "#6BF8FB",
+        "BRAND_400": "#5AEDFA",
+        "BRAND_430": "#49ECFA",
+        "BRAND_460": "#37E9F9",
+        "BRAND_500": "#26F7F9",
+        "BRAND_530": "#23E4E5",
+        "BRAND_560": "#20CBD1",
+        "BRAND_600": "#1DB5BD",
+        "BRAND_630": "#1AA6A9",
+        "BRAND_660": "#179295",
+        "BRAND_700": "#148180",
+        "BRAND_730": "#116C6E",
+        "BRAND_760": "#0E565A",
+        "BRAND_800": "#0B4646",
+        "BRAND_830": "#083032",
+        "BRAND_860": "#051E1E",
+        "BRAND_900": "#020A0A",
         "YELLOW_300": "#e6ab09",
         "RED_400": "#de0707",
         "GREEN_360": "#64e309"

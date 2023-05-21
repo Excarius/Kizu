@@ -108,5 +108,10 @@
         "RED_400": "#D62424",
         "GREEN_360": "#27D026"
     },
+    "background": {
+    "blur": 2,
+    "url": "https://bbaka.moe/QWSlEfvZ3M4H.jpg",
+    "alpha": 0.48
+  },
     "spec": 2
 }

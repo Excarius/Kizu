@@ -8,9 +8,6 @@
         }
     ],
     "semanticColors": {
-        "CHAT_BACKGROUND": [
-            "#1f1f1f"
-        ],
         "BACKGROUND_PRIMARY": [
             "#1f1f1f"
         ],
@@ -109,9 +106,9 @@
         "GREEN_360": "#27D026"
     },
     "background": {
-//    "blur": 0,
+    "blur": 0,
     "url": "https://bbaka.moe/QWSlEfvZ3M4H.jpg",
-//    "alpha": 0.48
+    "alpha": 0.48
   },
     "spec": 2
 }

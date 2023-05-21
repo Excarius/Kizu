@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "CHAT_BACKGROUND": [
-            "#303030"
+            "#1f1f1f"
         ],
         "BACKGROUND_PRIMARY": [
-            "#303030"
+            "#1f1f1f"
         ],
         "BACKGROUND_SECONDARY": [
             "#161616"
@@ -21,13 +21,13 @@
             "#262626"
         ],
         "BACKGROUND_TERTIARY": [
-            "#252525"
+            "#0f0f0f"
         ],
         "BACKGROUND_FLOATING": [
-            "#252525"
+            "#0f0f0f"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#303030"
+            "#1f1f1f"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#161616"
@@ -39,10 +39,10 @@
             "#262626"
         ],
         "BACKGROUND_MENTIONED": [
-            "#231F1F"
+            "#f9267210"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
-            "#231F1F"
+            "#66d9ef10"
         ],
         "HEADER_PRIMARY": [
             "#f2f2f2"
@@ -54,7 +54,7 @@
             "#f2f2f2"
         ],
         "TEXT_LINK": [
-            "#1c86b0"
+            "#56adbc"
         ],
         "TEXT_BRAND": [
             "#1c86b0"

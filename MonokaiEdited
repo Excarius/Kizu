@@ -54,10 +54,10 @@
             "#f2f2f2"
         ],
         "TEXT_LINK": [
-            "#56adbc"
+            "#1c86b0"
         ],
         "TEXT_BRAND": [
-            "#f92672"
+            "#1c86b0"
         ],
         "CONTROL_BRAND_FOREGROUND": [
             "#1c86b0"
@@ -91,7 +91,7 @@
         "BRAND_400": "#fa5a94",
         "BRAND_430": "#fa4989",
         "BRAND_460": "#f9377d",
-        "BRAND_500": "#f92672",
+        "BRAND_500": "#1c86b0",
         "BRAND_530": "#e52369",
         "BRAND_560": "#d12060",
         "BRAND_600": "#bd1d57",

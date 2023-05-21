@@ -8,6 +8,9 @@
         }
     ],
     "semanticColors": {
+        "CHAT_BACKGROUND": [
+            "#1f1f1f"
+        ],
         "BACKGROUND_PRIMARY": [
             "#1f1f1f"
         ],
@@ -107,7 +110,7 @@
     },
     "background": {
     "blur": 0,
-    "url": "https://bbaka.moe/QWSlEfvZ3M4H.jpg",
+    "url": "https://media.tenor.com/KH9oI8HELZAAAAAM/idk-anime.gif",
     "alpha": 0.48
   },
     "spec": 2

@@ -54,13 +54,13 @@
             "#f2f2f2"
         ],
         "TEXT_LINK": [
-            "#56adbc"
+            "#b82828"
         ],
         "TEXT_BRAND": [
-            "#f92672"
+            "#b81a1a"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#f92672"
+            "#b81a1a"
         ],
         "CHANNEL_ICON": [
             "#666666"
@@ -75,44 +75,44 @@
             "#f2f2f2"
         ],
          "SPOILER_HIDDEN_BACKGROUND": [
-             "#434C5E"
+             "#5d6169"
          ],
          "SPOILER_REVEALED_BACKGROUND": [
-             "#5B6272"
+             "#424347"
          ]
         },
     "rawColors": {
         "PRIMARY_600": "#1f1f1f",
         "PRIMARY_500": "#363636",
-        "BRAND_100": "#fff6f9",
-        "BRAND_130": "#fee5ee",
-        "BRAND_160": "#fedce8",
-        "BRAND_200": "#fed4e3",
-        "BRAND_230": "#fdc2d8",
-        "BRAND_260": "#fdb1cc",
-        "BRAND_300": "#fca0c1",
-        "BRAND_330": "#fc8eb6",
-        "BRAND_345": "#fb7daa",
-        "BRAND_360": "#fb6b9f",
-        "BRAND_400": "#fa5a94",
-        "BRAND_430": "#fa4989",
-        "BRAND_460": "#f9377d",
-        "BRAND_500": "#f92672",
-        "BRAND_530": "#e52369",
-        "BRAND_560": "#d12060",
-        "BRAND_600": "#bd1d57",
-        "BRAND_630": "#a91a4e",
-        "BRAND_660": "#951744",
-        "BRAND_700": "#81143b",
-        "BRAND_730": "#6e1132",
-        "BRAND_760": "#5a0e29",
-        "BRAND_800": "#460b20",
-        "BRAND_830": "#320817",
-        "BRAND_860": "#1e050e",
-        "BRAND_900": "#0a0205",
-        "YELLOW_300": "#E3B823",
-        "RED_400": "#D62424",
-        "GREEN_360": "#27D026"
+        "BRAND_100": "#fff6f6",
+        "BRAND_130": "#fee5e5",
+        "BRAND_160": "#fedcdc",
+        "BRAND_200": "#fed4d4",
+        "BRAND_230": "#fdc2c2",
+        "BRAND_260": "#fdb1b1",
+        "BRAND_300": "#fca0a0",
+        "BRAND_330": "#fc8e8e",
+        "BRAND_345": "#fb7d7d",
+        "BRAND_360": "#fb6b6b",
+        "BRAND_400": "#fa5a5a",
+        "BRAND_430": "#fa4949",
+        "BRAND_460": "#f93737",
+        "BRAND_500": "#f92626",
+        "BRAND_530": "#e52323",
+        "BRAND_560": "#d12020",
+        "BRAND_600": "#bd1d1d",
+        "BRAND_630": "#a91a1a",
+        "BRAND_660": "#951717",
+        "BRAND_700": "#811414",
+        "BRAND_730": "#6e1111",
+        "BRAND_760": "#5a0e0e",
+        "BRAND_800": "#460b0b",
+        "BRAND_830": "#320808",
+        "BRAND_860": "#1e0505",
+        "BRAND_900": "#0a0202",
+        "YELLOW_300": "#a88713",
+        "RED_400": "#8a1616",
+        "GREEN_360": "#10570f"
     },
     "spec": 2
 }

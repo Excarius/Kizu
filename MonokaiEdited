@@ -1,5 +1,5 @@
 {
-    "name": "Monokai Night - Fine-tuned by Kizu",
+    "name": "Monokai-Night: Crimson - Kizu",
     "description": "A theme made by Fiery, Original author of the minimalistic dark theme with fine-tunes and adjustments done by Kizu.",
     "authors": [
         {
@@ -110,7 +110,7 @@
         "BRAND_830": "#320808",
         "BRAND_860": "#1e0505",
         "BRAND_900": "#0a0202",
-        "YELLOW_300": "#ad8a0e",
+        "YELLOW_300": "#d6ab11",
         "RED_400": "#ab0e0e",
         "GREEN_360": "#0e8f0d"
     },
